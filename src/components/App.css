@@ -1,0 +1,17 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.k-table-thead
+{
+    display: none;
+}
+
+.k-grid-container {
+    width: max-content;
+}
+
+td {
+    border: 1px solid black;
+}
